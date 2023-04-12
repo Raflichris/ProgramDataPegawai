@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1543218550 source:d:\nadhia tel-u\semester 3\tubes std\tubes\main.cpp
+	<iostream>
+	<stdlib.h>
+	"pegawai.h"
+	"gaji.h"
+	"menu.h"
+
+1543197194 d:\nadhia tel-u\semester 3\tubes std\tubes\pegawai.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string>
+
+1543230517 source:d:\nadhia tel-u\semester 3\tubes std\tubes\pegawai.cpp
+	"pegawai.h"
+
+1543230514 source:d:\nadhia tel-u\semester 3\tubes std\tubes\relasi.cpp
+	"relasi.h"
+
+1543220986 d:\nadhia tel-u\semester 3\tubes std\tubes\relasi.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"pegawai.h"
+	"gaji.h"
+
+1543198667 d:\nadhia tel-u\semester 3\tubes std\tubes\gaji.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1543240932 source:d:\nadhia tel-u\semester 3\tubes std\tubes\gaji.cpp
+	"gaji.h"
+
+1543220947 source:d:\nadhia tel-u\semester 3\tubes std\tubes\menu.cpp
+	"menu.h"
+
+1543198668 d:\nadhia tel-u\semester 3\tubes std\tubes\menu.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	"pegawai.h"
+	"gaji.h"
+	"relasi.h"
+
+1543244604 source:d:\tugas\std\tubes333333\tubes\gaji.cpp
+	"gaji.h"
+
+1543202268 d:\tugas\std\tubes333333\tubes\gaji.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1543222152 source:d:\tugas\std\tubes333333\tubes\main.cpp
+	<iostream>
+	<stdlib.h>
+	"pegawai.h"
+	"gaji.h"
+	"menu.h"
+
+1543200796 d:\tugas\std\tubes333333\tubes\pegawai.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string>
+
+1543202270 d:\tugas\std\tubes333333\tubes\menu.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	"pegawai.h"
+	"gaji.h"
+	"relasi.h"
+
+1543224588 d:\tugas\std\tubes333333\tubes\relasi.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"pegawai.h"
+	"gaji.h"
+
+1543224548 source:d:\tugas\std\tubes333333\tubes\menu.cpp
+	"menu.h"
+
+1543234118 source:d:\tugas\std\tubes333333\tubes\pegawai.cpp
+	"pegawai.h"
+
+1543234116 source:d:\tugas\std\tubes333333\tubes\relasi.cpp
+	"relasi.h"
+
